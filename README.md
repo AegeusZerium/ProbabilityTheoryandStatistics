@@ -4,7 +4,7 @@
 
 The Notebook demonstrates the use **Bayes' theorem** to estimate and infer the parameters of a simple linear regression model.
 
-The programming language and scientific libraries used for visualization are the following:
+The programming language and scientific libraries used for visualization and computing are the following:
 
 - Python 3.7.3
 - Numpy 1.16.2
